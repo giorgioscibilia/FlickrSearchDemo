@@ -1,5 +1,5 @@
 # FlickrSearchDemo
-A simple iOS app showing how to use flickr search apis.
+A simple iOS app written in Objective-C that shows how to use flickr search apis.
 
 
 Overview:
@@ -16,3 +16,8 @@ Most Important Classes:
 
 Third party libraries:
 - https://github.com/jdg/MBProgressHUD :  Used to display a "wait for image loading" message while searchin the images to display.
+
+
+
+
+To compile/run just download/use the latest version XCode ()
